@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.0.0
-  name: test-git-prod-build
+  name: test-git-build
   type: test-git-build
