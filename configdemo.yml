@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.0.0
-  name: dev-git-prod-build
-  type: development-git-build
+  name: default-git-build
+  type: default-git-build
